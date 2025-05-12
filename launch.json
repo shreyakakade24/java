@@ -1,0 +1,206 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "bankaccountexcep",
+      "request": "launch",
+      "mainClass": "bankaccountexcep",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "throwsexcep",
+      "request": "launch",
+      "mainClass": "throwsexcep",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "nestedcatch",
+      "request": "launch",
+      "mainClass": "nestedcatch",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "nestedtry",
+      "request": "launch",
+      "mainClass": "nestedtry",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "multicatchexcep",
+      "request": "launch",
+      "mainClass": "multicatchexcep",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "numexcep",
+      "request": "launch",
+      "mainClass": "numexcep",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "FactorialClient",
+      "request": "launch",
+      "mainClass": "FactorialClient",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "FactorialServer",
+      "request": "launch",
+      "mainClass": "FactorialServer",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "tcpclient",
+      "request": "launch",
+      "mainClass": "tcpclient",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "tcpserver",
+      "request": "launch",
+      "mainClass": "tcpserver",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "abstrmethod",
+      "request": "launch",
+      "mainClass": "abstrmethod",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "thiskey",
+      "request": "launch",
+      "mainClass": "thiskey",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "B",
+      "request": "launch",
+      "mainClass": "B",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "variables",
+      "request": "launch",
+      "mainClass": "variables",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "Company",
+      "request": "launch",
+      "mainClass": "Company",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "BankSystem",
+      "request": "launch",
+      "mainClass": "BankSystem",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "alphabetical",
+      "request": "launch",
+      "mainClass": "alphabetical",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "Matrix",
+      "request": "launch",
+      "mainClass": "Matrix",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "Merge_sort",
+      "request": "launch",
+      "mainClass": "Merge_sort",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "Ascending",
+      "request": "launch",
+      "mainClass": "Ascending",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "pratice",
+      "request": "launch",
+      "mainClass": "pratice",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "practice",
+      "request": "launch",
+      "mainClass": "practice",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "Factorial",
+      "request": "launch",
+      "mainClass": "Factorial",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "StudentExamResults",
+      "request": "launch",
+      "mainClass": "StudentExamResults",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "type": "java",
+      "name": "hello",
+      "request": "launch",
+      "mainClass": "hello",
+      "projectName": "java programs_c2f2af27"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/shreya/java programs",
+      "program": "d:/shreya/java programs/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
